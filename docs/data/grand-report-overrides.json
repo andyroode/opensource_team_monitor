@@ -312,6 +312,11 @@
           "name": "qubership-envgene-template",
           "visual-value": "Non testable",
           "sort-by-value": "5"
+        },
+        {
+          "name": "qubership-apihub-vscode",
+          "visual-value": "Non testable",
+          "sort-by-value": "5"
         }
       ]
     },
