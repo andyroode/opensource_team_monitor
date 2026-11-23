@@ -197,6 +197,31 @@
           "name": "qubership-apihub-vscode",
           "visual-value": "Not a Java project",
           "sort-by-value": "5"
+        },
+        {
+          "name": "qubership-cloud-passport-cli",
+          "visual-value": "Skipped",
+          "sort-by-value": "5"
+        },
+        {
+          "name": "qubership-envgene",
+          "visual-value": "Skipped",
+          "sort-by-value": "5"
+        },
+        {
+          "name": "qubership-envgene-base-modules",
+          "visual-value": "Skipped",
+          "sort-by-value": "5"
+        },
+        {
+          "name": "qubership-envgene-instance",
+          "visual-value": "Skipped",
+          "sort-by-value": "5"
+        },
+        {
+          "name": "qubership-envgene-template",
+          "visual-value": "Skipped",
+          "sort-by-value": "5"
         }
       ]
     },
@@ -511,6 +536,16 @@
         {
           "name": "qubership-envgene-template",
           "visual-value": "Not a Java project",
+          "sort-by-value": "5"
+        }
+      ]
+    },
+    {
+      "column-id": "C056",
+      "repositories": [
+        {
+          "name": "qubership-envgene",
+          "visual-value": "Not a Maven",
           "sort-by-value": "5"
         }
       ]
